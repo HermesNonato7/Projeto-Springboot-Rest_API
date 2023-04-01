@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/my-first-web-api/my-first-web-api.iml" filepath="$PROJECT_DIR$/my-first-web-api/my-first-web-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workspace-Projetos Java-DIO.iml" filepath="$PROJECT_DIR$/.idea/workspace-Projetos Java-DIO.iml" />
+    </modules>
+  </component>
+</project>
